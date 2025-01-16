@@ -9,4 +9,4 @@
 ✔️ Muestra el resultado de la operación de inmediato.  
 
 ## 📷 Vista previa  
-![Captura de pantalla]()  
+![Captura de pantalla](https://github.com/Franciscaii/SumOrSubtractApp/blob/main/WhatsApp%20Image%202025-01-16%20at%2020.07.54.jpeg)  
