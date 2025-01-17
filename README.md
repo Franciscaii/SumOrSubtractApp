@@ -10,7 +10,7 @@
 
 ## 📷 Vista previa  
 
-<img src="https://github.com/Franciscaii/SumOrSubtractApp/blob/main/WhatsApp%20Image%202025-01-16%20at%2020.07.54.jpeg" alt="Captura de pantalla" width="150"/>
+<img src="https://github.com/Franciscaii/SumOrSubtractApp/blob/main/WhatsApp%20Image%202025-01-16%20at%2020.07.54.jpeg" alt="Captura de pantalla" width="180"/>
 
 
 
